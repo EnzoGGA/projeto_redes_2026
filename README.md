@@ -53,20 +53,23 @@ A aplicação foi desenvolvida em Python utilizando:
 
 # Execução
 
+Para a execução, siga os passos:
+
 ## Iniciar servidores
 
 ```bash
-python tcp_server.py
-python udp_server.py
-uvicorn api:app --host 0.0.0.0 --port 8000 --reload
-streamlit run app.py
+python dashboard.py #cria o banco de dados
+python tcp_server.py #inicia o servidor tcp
+python udp_server.py #inicia o servidor udp
+uvicorn api:app --host 0.0.0.0 --port 8000 --reload #inicia a API
+streamlit run app.py #inicia o streamlit
 ```
 
 ## Iniciar clientes
 
 ```bash
-python tcp_client.py
-python udp_client.py
+python tcp_client.py #inicia o cliente tcp
+python udp_client.py #inicia o cliente udp
 ```
 
 ---
