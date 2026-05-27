@@ -2,7 +2,7 @@ import socket
 import json
 from database import get_connection
 
-HOST = '0.0.0.0'
+HOST = '0.0.0.0' #aceita conexões de qualquer IP
 PORT = 5001
 server = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 server.bind((HOST, PORT))

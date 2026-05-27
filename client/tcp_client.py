@@ -3,7 +3,7 @@ import json
 import random
 import time
 
-HOST = '127.0.0.1'
+HOST = '127.0.0.1' #mude o ip para o do servidor se não estiver rodando localmente
 PORT = 5000
 while True:
     client = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
