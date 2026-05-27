@@ -1,0 +1,1529 @@
+TCP | 127.0.0.1 | RTT=0.03ms | Throughput=2154608.22
+TCP | 127.0.0.1 | RTT=0.02ms | Throughput=2984408.62
+TCP | 127.0.0.1 | RTT=0.02ms | Throughput=3355443.20
+TCP | 127.0.0.1 | RTT=0.05ms | Throughput=1385943.93
+TCP | 127.0.0.1 | RTT=0.05ms | Throughput=1429876.36
+TCP | 127.0.0.1 | RTT=0.06ms | Throughput=1338607.66
+TCP | 127.0.0.1 | RTT=0.05ms | Throughput=1562583.84
+TCP | 127.0.0.1 | RTT=0.02ms | Throughput=3427603.27
+TCP | 127.0.0.1 | RTT=0.06ms | Throughput=1310720.00
+TCP | 127.0.0.1 | RTT=0.06ms | Throughput=1310720.00
+TCP | 127.0.0.1 | RTT=0.04ms | Throughput=1886195.88
+TCP | 127.0.0.1 | RTT=0.05ms | Throughput=1355364.61
+TCP | 127.0.0.1 | RTT=0.06ms | Throughput=1339357.58
+TCP | 127.0.0.1 | RTT=0.05ms | Throughput=1668937.72
+TCP | 127.0.0.1 | RTT=0.05ms | Throughput=1634703.10
+TCP | 127.0.0.1 | RTT=0.05ms | Throughput=1475773.63
+TCP | 127.0.0.1 | RTT=0.02ms | Throughput=3252725.55
+TCP | 127.0.0.1 | RTT=0.02ms | Throughput=3156109.94
+TCP | 127.0.0.1 | RTT=0.03ms | Throughput=2967667.92
+TCP | 127.0.0.1 | RTT=0.03ms | Throughput=2263113.67
+TCP | 127.0.0.1 | RTT=0.06ms | Throughput=1290555.08
+TCP | 127.0.0.1 | RTT=0.05ms | Throughput=1468972.83
+TCP | 127.0.0.1 | RTT=0.13ms | Throughput=582755.22
+TCP | 127.0.0.1 | RTT=0.06ms | Throughput=1221329.90
+TCP | 127.0.0.1 | RTT=0.03ms | Throughput=2643468.91
+TCP | 127.0.0.1 | RTT=0.06ms | Throughput=1356455.76
+TCP | 127.0.0.1 | RTT=0.03ms | Throughput=2939932.71
+TCP | 127.0.0.1 | RTT=0.06ms | Throughput=1356455.76
+TCP | 127.0.0.1 | RTT=0.06ms | Throughput=1345008.88
+TCP | 127.0.0.1 | RTT=0.05ms | Throughput=1379705.26
+TCP | 127.0.0.1 | RTT=0.02ms | Throughput=3320490.67
+TCP | 127.0.0.1 | RTT=0.06ms | Throughput=1350097.85
+TCP | 127.0.0.1 | RTT=0.05ms | Throughput=1398101.33
+TCP | 127.0.0.1 | RTT=0.06ms | Throughput=1283970.61
+TCP | 127.0.0.1 | RTT=0.04ms | Throughput=1741896.74
+TCP | 127.0.0.1 | RTT=0.09ms | Throughput=892905.05
+TCP | 127.0.0.1 | RTT=0.05ms | Throughput=1609934.87
+TCP | 127.0.0.1 | RTT=0.03ms | Throughput=2361237.81
+TCP | 127.0.0.1 | RTT=0.06ms | Throughput=1294538.27
+TCP | 127.0.0.1 | RTT=0.04ms | Throughput=1700393.51
+TCP | 127.0.0.1 | RTT=0.61ms | Throughput=123937.44
+TCP | 127.0.0.1 | RTT=0.06ms | Throughput=1191563.64
+TCP | 127.0.0.1 | RTT=0.05ms | Throughput=1510744.57
+TCP | 127.0.0.1 | RTT=0.08ms | Throughput=983849.09
+TCP | 127.0.0.1 | RTT=0.04ms | Throughput=1718977.05
+TCP | 127.0.0.1 | RTT=0.03ms | Throughput=2701416.14
+TCP | 127.0.0.1 | RTT=0.04ms | Throughput=1800944.09
+TCP | 127.0.0.1 | RTT=0.05ms | Throughput=1348169.14
+TCP | 127.0.0.1 | RTT=0.11ms | Throughput=711703.17
+TCP | 127.0.0.1 | RTT=0.06ms | Throughput=1214566.80
+TCP | 127.0.0.1 | RTT=0.06ms | Throughput=1301090.22
+TCP | 127.0.0.1 | RTT=0.03ms | Throughput=2759410.53
+TCP | 127.0.0.1 | RTT=0.06ms | Throughput=1230761.02
+TCP | 127.0.0.1 | RTT=0.06ms | Throughput=1322685.08
+TCP | 127.0.0.1 | RTT=0.03ms | Throughput=2747992.28
+TCP | 127.0.0.1 | RTT=0.06ms | Throughput=1345008.88
+TCP | 127.0.0.1 | RTT=0.06ms | Throughput=1198372.57
+TCP | 127.0.0.1 | RTT=0.05ms | Throughput=1448941.38
+TCP | 127.0.0.1 | RTT=0.06ms | Throughput=1290555.08
+TCP | 127.0.0.1 | RTT=0.05ms | Throughput=1410473.91
+TCP | 127.0.0.1 | RTT=0.05ms | Throughput=1385943.93
+TCP | 127.0.0.1 | RTT=0.06ms | Throughput=1332935.59
+TCP | 127.0.0.1 | RTT=0.04ms | Throughput=1695569.70
+TCP | 127.0.0.1 | RTT=0.03ms | Throughput=2796202.67
+TCP | 127.0.0.1 | RTT=0.06ms | Throughput=1245184.00
+TCP | 127.0.0.1 | RTT=0.06ms | Throughput=1333753.57
+TCP | 127.0.0.1 | RTT=0.06ms | Throughput=1238475.59
+TCP | 127.0.0.1 | RTT=0.03ms | Throughput=2293288.52
+TCP | 127.0.0.1 | RTT=0.06ms | Throughput=1295801.24
+TCP | 127.0.0.1 | RTT=0.05ms | Throughput=1463129.30
+TCP | 127.0.0.1 | RTT=0.06ms | Throughput=1368099.16
+TCP | 127.0.0.1 | RTT=0.06ms | Throughput=1373996.14
+TCP | 127.0.0.1 | RTT=0.06ms | Throughput=1368099.16
+TCP | 127.0.0.1 | RTT=0.06ms | Throughput=1345008.88
+TCP | 127.0.0.1 | RTT=0.06ms | Throughput=1362252.58
+TCP | 127.0.0.1 | RTT=0.02ms | Throughput=3657823.26
+TCP | 127.0.0.1 | RTT=0.03ms | Throughput=2885988.99
+TCP | 127.0.0.1 | RTT=0.05ms | Throughput=1668937.72
+TCP | 127.0.0.1 | RTT=0.03ms | Throughput=2924468.84
+TCP | 127.0.0.1 | RTT=0.02ms | Throughput=3419269.57
+TCP | 127.0.0.1 | RTT=0.03ms | Throughput=2820947.82
+TCP | 127.0.0.1 | RTT=0.06ms | Throughput=1178175.28
+TCP | 127.0.0.1 | RTT=0.05ms | Throughput=1549619.70
+TCP | 127.0.0.1 | RTT=0.04ms | Throughput=1800944.09
+TCP | 127.0.0.1 | RTT=0.02ms | Throughput=3706594.23
+TCP | 127.0.0.1 | RTT=0.05ms | Throughput=1385943.93
+TCP | 127.0.0.1 | RTT=0.06ms | Throughput=1333753.57
+TCP | 127.0.0.1 | RTT=0.06ms | Throughput=1356455.76
+TCP | 127.0.0.1 | RTT=0.05ms | Throughput=1416742.68
+TCP | 127.0.0.1 | RTT=0.05ms | Throughput=1367306.15
+TCP | 127.0.0.1 | RTT=0.03ms | Throughput=3007236.83
+TCP | 127.0.0.1 | RTT=0.06ms | Throughput=1289232.79
+TCP | 127.0.0.1 | RTT=0.03ms | Throughput=2490368.00
+TCP | 127.0.0.1 | RTT=0.02ms | Throughput=3355443.20
+TCP | 127.0.0.1 | RTT=0.06ms | Throughput=1339357.58
+TCP | 127.0.0.1 | RTT=0.03ms | Throughput=2924468.84
+TCP | 127.0.0.1 | RTT=0.06ms | Throughput=1356455.76
+TCP | 127.0.0.1 | RTT=0.03ms | Throughput=2924468.84
+TCP | 127.0.0.1 | RTT=0.02ms | Throughput=2984408.62
+TCP | 127.0.0.1 | RTT=0.05ms | Throughput=1385943.93
+TCP | 127.0.0.1 | RTT=0.04ms | Throughput=1724324.98
+TCP | 127.0.0.1 | RTT=0.05ms | Throughput=1468972.83
+TCP | 127.0.0.1 | RTT=0.06ms | Throughput=1361787.01
+TCP | 127.0.0.1 | RTT=0.03ms | Throughput=2711834.48
+TCP | 127.0.0.1 | RTT=0.03ms | Throughput=2951547.26
+TCP | 127.0.0.1 | RTT=0.02ms | Throughput=3448649.96
+TCP | 127.0.0.1 | RTT=0.05ms | Throughput=1496559.17
+TCP | 127.0.0.1 | RTT=0.06ms | Throughput=1321734.45
+TCP | 127.0.0.1 | RTT=0.03ms | Throughput=2885988.99
+TCP | 127.0.0.1 | RTT=0.05ms | Throughput=1578054.97
+TCP | 127.0.0.1 | RTT=0.05ms | Throughput=1464049.51
+TCP | 127.0.0.1 | RTT=0.04ms | Throughput=2069916.26
+TCP | 127.0.0.1 | RTT=0.06ms | Throughput=1321734.45
+TCP | 127.0.0.1 | RTT=0.03ms | Throughput=2871775.71
+TCP | 127.0.0.1 | RTT=0.02ms | Throughput=3615779.31
+TCP | 127.0.0.1 | RTT=0.03ms | Throughput=2808685.71
+TCP | 127.0.0.1 | RTT=0.03ms | Throughput=2995931.43
+TCP | 127.0.0.1 | RTT=0.03ms | Throughput=3007236.83
+TCP | 127.0.0.1 | RTT=0.03ms | Throughput=2509977.20
+TCP | 127.0.0.1 | RTT=0.03ms | Throughput=2711834.48
+TCP | 127.0.0.1 | RTT=0.09ms | Throughput=883011.37
+TCP | 127.0.0.1 | RTT=0.05ms | Throughput=1585905.99
+TCP | 127.0.0.1 | RTT=0.03ms | Throughput=2859752.73
+TCP | 127.0.0.1 | RTT=0.02ms | Throughput=3427603.27
+TCP | 127.0.0.1 | RTT=0.03ms | Throughput=2711834.48
+TCP | 127.0.0.1 | RTT=0.04ms | Throughput=2153831.78
+TCP | 127.0.0.1 | RTT=0.06ms | Throughput=1345008.88
+TCP | 127.0.0.1 | RTT=0.04ms | Throughput=1853297.12
+TCP | 127.0.0.1 | RTT=0.02ms | Throughput=3156109.94
+TCP | 127.0.0.1 | RTT=0.06ms | Throughput=1379944.17
+TCP | 127.0.0.1 | RTT=0.03ms | Throughput=2656392.53
+TCP | 127.0.0.1 | RTT=0.06ms | Throughput=1379944.17
+TCP | 127.0.0.1 | RTT=0.02ms | Throughput=3094826.25
+TCP | 127.0.0.1 | RTT=0.04ms | Throughput=1897423.24
+TCP | 127.0.0.1 | RTT=0.03ms | Throughput=2330168.89
+TCP | 127.0.0.1 | RTT=0.02ms | Throughput=3065068.31
+TCP | 127.0.0.1 | RTT=0.02ms | Throughput=3252725.55
+TCP | 127.0.0.1 | RTT=0.04ms | Throughput=2017513.32
+TCP | 127.0.0.1 | RTT=0.02ms | Throughput=3084047.06
+TCP | 127.0.0.1 | RTT=0.02ms | Throughput=3094826.25
+TCP | 127.0.0.1 | RTT=0.03ms | Throughput=2688656.41
+TCP | 127.0.0.1 | RTT=0.03ms | Throughput=2198393.82
+TCP | 127.0.0.1 | RTT=0.02ms | Throughput=3622353.45
+TCP | 127.0.0.1 | RTT=0.02ms | Throughput=3311292.63
+TCP | 127.0.0.1 | RTT=0.05ms | Throughput=1578054.97
+TCP | 127.0.0.1 | RTT=0.03ms | Throughput=2735415.65
+TCP | 127.0.0.1 | RTT=0.03ms | Throughput=3035877.18
+TCP | 127.0.0.1 | RTT=0.04ms | Throughput=1979919.90
+TCP | 127.0.0.1 | RTT=0.03ms | Throughput=2361237.81
+TCP | 127.0.0.1 | RTT=0.05ms | Throughput=1554961.48
+TCP | 127.0.0.1 | RTT=0.02ms | Throughput=3125167.69
+TCP | 127.0.0.1 | RTT=0.02ms | Throughput=3541856.71
+TCP | 127.0.0.1 | RTT=0.03ms | Throughput=2711834.48
+TCP | 127.0.0.1 | RTT=0.05ms | Throughput=1373356.18
+TCP | 127.0.0.1 | RTT=0.02ms | Throughput=3187671.04
+TCP | 127.0.0.1 | RTT=0.04ms | Throughput=1883669.46
+TCP | 127.0.0.1 | RTT=0.04ms | Throughput=1713801.63
+TCP | 127.0.0.1 | RTT=0.06ms | Throughput=1235531.41
+TCP | 127.0.0.1 | RTT=0.03ms | Throughput=2990383.41
+TCP | 127.0.0.1 | RTT=0.05ms | Throughput=1448941.38
+TCP | 127.0.0.1 | RTT=0.02ms | Throughput=3419269.57
+TCP | 127.0.0.1 | RTT=0.02ms | Throughput=3054104.85
+TCP | 127.0.0.1 | RTT=0.06ms | Throughput=1264948.83
+TCP | 127.0.0.1 | RTT=0.02ms | Throughput=3114582.18
+TCP | 127.0.0.1 | RTT=0.06ms | Throughput=1306422.56
+TCP | 127.0.0.1 | RTT=0.02ms | Throughput=3065068.31
+TCP | 127.0.0.1 | RTT=0.03ms | Throughput=2951547.26
+TCP | 127.0.0.1 | RTT=0.04ms | Throughput=1892551.80
+TCP | 127.0.0.1 | RTT=0.02ms | Throughput=3534525.84
+TCP | 127.0.0.1 | RTT=0.02ms | Throughput=3311292.63
+TCP | 127.0.0.1 | RTT=0.02ms | Throughput=3502935.21
+TCP | 127.0.0.1 | RTT=0.03ms | Throughput=2414902.30
+TCP | 127.0.0.1 | RTT=0.03ms | Throughput=2771887.86
+TCP | 127.0.0.1 | RTT=0.03ms | Throughput=2599775.21
+TCP | 127.0.0.1 | RTT=0.02ms | Throughput=3209926.53
+TCP | 127.0.0.1 | RTT=0.04ms | Throughput=2069557.89
+TCP | 127.0.0.1 | RTT=0.03ms | Throughput=2820947.82
+TCP | 127.0.0.1 | RTT=0.03ms | Throughput=2808685.71
+TCP | 127.0.0.1 | RTT=0.03ms | Throughput=2490368.00
+TCP | 127.0.0.1 | RTT=0.04ms | Throughput=2097152.00
+TCP | 127.0.0.1 | RTT=0.03ms | Throughput=2509977.20
+TCP | 127.0.0.1 | RTT=0.04ms | Throughput=2017513.32
+TCP | 127.0.0.1 | RTT=0.02ms | Throughput=3495253.33
+TCP | 127.0.0.1 | RTT=0.03ms | Throughput=2452054.65
+TCP | 127.0.0.1 | RTT=0.03ms | Throughput=2924468.84
+TCP | 127.0.0.1 | RTT=0.03ms | Throughput=2612845.11
+TCP | 127.0.0.1 | RTT=0.04ms | Throughput=2016492.31
+TCP | 127.0.0.1 | RTT=0.07ms | Throughput=1114570.29
+TCP | 127.0.0.1 | RTT=0.08ms | Throughput=874305.62
+TCP | 127.0.0.1 | RTT=0.05ms | Throughput=1651643.03
+TCP | 127.0.0.1 | RTT=0.06ms | Throughput=1295801.24
+TCP | 127.0.0.1 | RTT=0.09ms | Throughput=892905.05
+TCP | 127.0.0.1 | RTT=0.06ms | Throughput=1379944.17
+TCP | 127.0.0.1 | RTT=0.02ms | Throughput=3541856.71
+TCP | 127.0.0.1 | RTT=0.03ms | Throughput=2701416.14
+TCP | 127.0.0.1 | RTT=0.05ms | Throughput=1398101.33
+TCP | 127.0.0.1 | RTT=0.02ms | Throughput=3209926.53
+TCP | 127.0.0.1 | RTT=0.03ms | Throughput=2796202.67
+TCP | 127.0.0.1 | RTT=0.04ms | Throughput=2139376.54
+TCP | 127.0.0.1 | RTT=0.06ms | Throughput=1368099.16
+TCP | 127.0.0.1 | RTT=0.03ms | Throughput=2951547.26
+TCP | 127.0.0.1 | RTT=0.05ms | Throughput=1664406.35
+TCP | 127.0.0.1 | RTT=0.05ms | Throughput=1349471.72
+TCP | 127.0.0.1 | RTT=0.03ms | Throughput=3007236.83
+TCP | 127.0.0.1 | RTT=0.02ms | Throughput=3125167.69
+TCP | 127.0.0.1 | RTT=0.05ms | Throughput=1608178.74
+TCP | 127.0.0.1 | RTT=0.02ms | Throughput=3054104.85
+TCP | 127.0.0.1 | RTT=0.03ms | Throughput=2213660.44
+TCP | 127.0.0.1 | RTT=0.03ms | Throughput=2471062.82
+TCP | 127.0.0.1 | RTT=0.03ms | Throughput=2675676.69
+TCP | 127.0.0.1 | RTT=0.02ms | Throughput=3663989.70
+TCP | 127.0.0.1 | RTT=0.03ms | Throughput=2833989.19
+TCP | 127.0.0.1 | RTT=0.02ms | Throughput=3125167.69
+TCP | 127.0.0.1 | RTT=0.19ms | Throughput=388458.69
+TCP | 127.0.0.1 | RTT=0.05ms | Throughput=1455557.55
+TCP | 127.0.0.1 | RTT=0.05ms | Throughput=1442385.09
+TCP | 127.0.0.1 | RTT=0.04ms | Throughput=1915916.64
+TCP | 127.0.0.1 | RTT=0.04ms | Throughput=1732429.91
+TCP | 127.0.0.1 | RTT=0.06ms | Throughput=1380176.96
+TCP | 127.0.0.1 | RTT=0.05ms | Throughput=1416994.59
+TCP | 127.0.0.1 | RTT=0.06ms | Throughput=1254988.60
+TCP | 127.0.0.1 | RTT=0.04ms | Throughput=1906501.82
+TCP | 127.0.0.1 | RTT=0.09ms | Throughput=834468.86
+TCP | 127.0.0.1 | RTT=0.04ms | Throughput=1673259.57
+TCP | 127.0.0.1 | RTT=0.05ms | Throughput=1651643.03
+TCP | 127.0.0.1 | RTT=0.05ms | Throughput=1578054.97
+TCP | 127.0.0.1 | RTT=0.05ms | Throughput=1489565.91
+TCP | 127.0.0.1 | RTT=0.04ms | Throughput=1757389.94
+TCP | 127.0.0.1 | RTT=0.05ms | Throughput=1634703.10
+TCP | 127.0.0.1 | RTT=0.06ms | Throughput=1269988.46
+TCP | 127.0.0.1 | RTT=0.05ms | Throughput=1517938.59
+TCP | 127.0.0.1 | RTT=0.04ms | Throughput=1695569.70
+TCP | 127.0.0.1 | RTT=0.05ms | Throughput=1660245.33
+TCP | 127.0.0.1 | RTT=0.05ms | Throughput=1512369.23
+TCP | 127.0.0.1 | RTT=0.06ms | Throughput=1345008.88
+TCP | 127.0.0.1 | RTT=0.07ms | Throughput=1130379.80
+TCP | 127.0.0.1 | RTT=0.05ms | Throughput=1626362.78
+TCP | 127.0.0.1 | RTT=0.04ms | Throughput=1853297.12
+TCP | 127.0.0.1 | RTT=0.04ms | Throughput=1770928.36
+TCP | 127.0.0.1 | RTT=0.05ms | Throughput=1570281.30
+TCP | 127.0.0.1 | RTT=0.04ms | Throughput=1875100.61
+TCP | 127.0.0.1 | RTT=0.05ms | Throughput=1429448.90
+TCP | 127.0.0.1 | RTT=0.06ms | Throughput=1350097.85
+TCP | 127.0.0.1 | RTT=0.06ms | Throughput=1333753.57
+TCP | 127.0.0.1 | RTT=0.05ms | Throughput=1398101.33
+TCP | 127.0.0.1 | RTT=0.06ms | Throughput=1379944.17
+TCP | 127.0.0.1 | RTT=0.06ms | Throughput=1250067.07
+TCP | 127.0.0.1 | RTT=0.04ms | Throughput=1920283.76
+TCP | 127.0.0.1 | RTT=0.03ms | Throughput=2643468.91
+TCP | 127.0.0.1 | RTT=0.03ms | Throughput=2846134.86
+TCP | 127.0.0.1 | RTT=0.03ms | Throughput=2722618.39
+TCP | 127.0.0.1 | RTT=0.03ms | Throughput=2550136.83
+TCP | 127.0.0.1 | RTT=0.04ms | Throughput=2017513.32
+TCP | 127.0.0.1 | RTT=0.02ms | Throughput=3114582.18
+TCP | 127.0.0.1 | RTT=0.03ms | Throughput=2496609.52
+TCP | 127.0.0.1 | RTT=0.02ms | Throughput=3382503.23
+TCP | 127.0.0.1 | RTT=0.03ms | Throughput=2846134.86
+TCP | 127.0.0.1 | RTT=0.02ms | Throughput=3065068.31
+TCP | 127.0.0.1 | RTT=0.05ms | Throughput=1547413.13
+TCP | 127.0.0.1 | RTT=0.06ms | Throughput=1350097.85
+TCP | 127.0.0.1 | RTT=0.05ms | Throughput=1416994.59
+TCP | 127.0.0.1 | RTT=0.02ms | Throughput=3084047.06
+TCP | 127.0.0.1 | RTT=0.04ms | Throughput=1700393.51
+TCP | 127.0.0.1 | RTT=0.03ms | Throughput=2529897.65
+TCP | 127.0.0.1 | RTT=0.04ms | Throughput=1908785.05
+TCP | 127.0.0.1 | RTT=0.04ms | Throughput=1908785.05
+TCP | 127.0.0.1 | RTT=0.56ms | Throughput=133068.02
+TCP | 127.0.0.1 | RTT=0.05ms | Throughput=1664406.35
+TCP | 127.0.0.1 | RTT=0.02ms | Throughput=3065068.31
+TCP | 127.0.0.1 | RTT=0.02ms | Throughput=3065068.31
+TCP | 127.0.0.1 | RTT=0.06ms | Throughput=1355917.24
+TCP | 127.0.0.1 | RTT=0.03ms | Throughput=2570702.45
+TCP | 127.0.0.1 | RTT=0.03ms | Throughput=3007236.83
+TCP | 127.0.0.1 | RTT=0.03ms | Throughput=2599775.21
+TCP | 127.0.0.1 | RTT=0.02ms | Throughput=3156109.94
+TCP | 127.0.0.1 | RTT=0.04ms | Throughput=1966080.00
+TCP | 127.0.0.1 | RTT=0.02ms | Throughput=3382503.23
+TCP | 127.0.0.1 | RTT=0.02ms | Throughput=3145728.00
+TCP | 127.0.0.1 | RTT=0.03ms | Throughput=2396745.14
+TCP | 127.0.0.1 | RTT=0.03ms | Throughput=2678715.16
+TCP | 127.0.0.1 | RTT=0.02ms | Throughput=3125167.69
+TCP | 127.0.0.1 | RTT=0.06ms | Throughput=1268438.71
+TCP | 127.0.0.1 | RTT=0.06ms | Throughput=1200659.54
+TCP | 127.0.0.1 | RTT=0.03ms | Throughput=2490368.00
+TCP | 127.0.0.1 | RTT=0.04ms | Throughput=2044059.54
+TCP | 127.0.0.1 | RTT=0.02ms | Throughput=3135136.32
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.07ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.07ms
+TCP | 127.0.0.1 | RTT=0.06ms
+TCP | 127.0.0.1 | RTT=0.06ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.08ms
+TCP | 127.0.0.1 | RTT=0.08ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.08ms
+TCP | 127.0.0.1 | RTT=0.09ms
+TCP | 127.0.0.1 | RTT=0.08ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.08ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.08ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.06ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.07ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.07ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.08ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.19ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.12ms
+TCP | 127.0.0.1 | RTT=0.07ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.07ms
+TCP | 127.0.0.1 | RTT=0.08ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.07ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.08ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.06ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.07ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.06ms
+TCP | 127.0.0.1 | RTT=0.08ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.07ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.08ms
+TCP | 127.0.0.1 | RTT=0.07ms
+TCP | 127.0.0.1 | RTT=0.07ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.06ms
+TCP | 127.0.0.1 | RTT=0.08ms
+TCP | 127.0.0.1 | RTT=0.07ms
+TCP | 127.0.0.1 | RTT=0.09ms
+TCP | 127.0.0.1 | RTT=0.06ms
+TCP | 127.0.0.1 | RTT=0.06ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.16ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.07ms
+TCP | 127.0.0.1 | RTT=0.09ms
+TCP | 127.0.0.1 | RTT=0.08ms
+TCP | 127.0.0.1 | RTT=0.08ms
+TCP | 127.0.0.1 | RTT=0.08ms
+TCP | 127.0.0.1 | RTT=0.07ms
+TCP | 127.0.0.1 | RTT=0.07ms
+TCP | 127.0.0.1 | RTT=0.07ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.25ms
+TCP | 127.0.0.1 | RTT=0.07ms
+TCP | 127.0.0.1 | RTT=0.07ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.07ms
+TCP | 127.0.0.1 | RTT=0.06ms
+TCP | 127.0.0.1 | RTT=0.07ms
+TCP | 127.0.0.1 | RTT=0.09ms
+TCP | 127.0.0.1 | RTT=0.06ms
+TCP | 127.0.0.1 | RTT=0.09ms
+TCP | 127.0.0.1 | RTT=0.07ms
+TCP | 127.0.0.1 | RTT=0.07ms
+TCP | 127.0.0.1 | RTT=0.08ms
+TCP | 127.0.0.1 | RTT=0.07ms
+TCP | 127.0.0.1 | RTT=0.07ms
+TCP | 127.0.0.1 | RTT=0.06ms
+TCP | 127.0.0.1 | RTT=0.07ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.06ms
+TCP | 127.0.0.1 | RTT=0.06ms
+TCP | 127.0.0.1 | RTT=0.06ms
+TCP | 127.0.0.1 | RTT=0.06ms
+TCP | 127.0.0.1 | RTT=0.07ms
+TCP | 127.0.0.1 | RTT=0.06ms
+TCP | 127.0.0.1 | RTT=0.07ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.09ms
+TCP | 127.0.0.1 | RTT=0.08ms
+TCP | 127.0.0.1 | RTT=0.06ms
+TCP | 127.0.0.1 | RTT=0.07ms
+TCP | 127.0.0.1 | RTT=0.07ms
+TCP | 127.0.0.1 | RTT=0.07ms
+TCP | 127.0.0.1 | RTT=0.08ms
+TCP | 127.0.0.1 | RTT=0.07ms
+TCP | 127.0.0.1 | RTT=0.07ms
+TCP | 127.0.0.1 | RTT=0.08ms
+TCP | 127.0.0.1 | RTT=0.09ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.07ms
+TCP | 127.0.0.1 | RTT=0.06ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.08ms
+TCP | 127.0.0.1 | RTT=0.07ms
+TCP | 127.0.0.1 | RTT=0.06ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.07ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.07ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.08ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.07ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.07ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.10ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.06ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.06ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.06ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.06ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.06ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.06ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.07ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.07ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.06ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.06ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.06ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.06ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.06ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.07ms
+TCP | 127.0.0.1 | RTT=0.60ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.06ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.06ms
+TCP | 127.0.0.1 | RTT=0.06ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.06ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.06ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.06ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.07ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.06ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.27ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.06ms
+TCP | 127.0.0.1 | RTT=0.06ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.06ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.06ms
+TCP | 127.0.0.1 | RTT=0.09ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.06ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.11ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.10ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.19ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.06ms
+TCP | 127.0.0.1 | RTT=0.06ms
+TCP | 127.0.0.1 | RTT=0.06ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.06ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.06ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.06ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.06ms
+TCP | 127.0.0.1 | RTT=0.06ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.14ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.06ms
+TCP | 127.0.0.1 | RTT=0.07ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.06ms
+TCP | 127.0.0.1 | RTT=0.06ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.06ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.06ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.06ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.06ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.06ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.06ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.06ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.06ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.06ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.09ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.06ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.06ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.06ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.06ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.07ms
+TCP | 127.0.0.1 | RTT=0.06ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.11ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.06ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.06ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.02ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.06ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.06ms
+TCP | 127.0.0.1 | RTT=0.08ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.06ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.06ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.06ms
+TCP | 127.0.0.1 | RTT=0.06ms
+TCP | 127.0.0.1 | RTT=0.12ms
+TCP | 127.0.0.1 | RTT=0.04ms
+TCP | 127.0.0.1 | RTT=0.06ms
+TCP | 127.0.0.1 | RTT=0.06ms
+TCP | 127.0.0.1 | RTT=0.08ms
+TCP | 127.0.0.1 | RTT=0.05ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 127.0.0.1 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.07ms
+TCP | 192.168.1.14 | RTT=0.06ms
+TCP | 192.168.1.14 | RTT=0.05ms
+TCP | 192.168.1.14 | RTT=0.05ms
+TCP | 192.168.1.14 | RTT=0.10ms
+TCP | 192.168.1.14 | RTT=0.05ms
+TCP | 192.168.1.14 | RTT=0.05ms
+TCP | 192.168.1.14 | RTT=0.06ms
+TCP | 192.168.1.14 | RTT=0.05ms
+TCP | 192.168.1.14 | RTT=0.17ms
+TCP | 192.168.1.14 | RTT=0.06ms
+TCP | 192.168.1.14 | RTT=0.04ms
+TCP | 192.168.1.14 | RTT=0.05ms
+TCP | 192.168.1.14 | RTT=0.04ms
+TCP | 192.168.1.14 | RTT=0.05ms
+TCP | 192.168.1.14 | RTT=0.05ms
+TCP | 192.168.1.14 | RTT=0.07ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.11ms
+TCP | 192.168.1.14 | RTT=0.04ms
+TCP | 192.168.1.14 | RTT=0.05ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.06ms
+TCP | 192.168.1.14 | RTT=0.05ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.06ms
+TCP | 192.168.1.14 | RTT=0.90ms
+TCP | 192.168.1.14 | RTT=0.04ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.05ms
+TCP | 192.168.1.14 | RTT=0.02ms
+TCP | 192.168.1.14 | RTT=0.05ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.07ms
+TCP | 192.168.1.14 | RTT=0.26ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.05ms
+TCP | 192.168.1.14 | RTT=0.17ms
+TCP | 192.168.1.14 | RTT=0.35ms
+TCP | 192.168.1.14 | RTT=0.06ms
+TCP | 192.168.1.14 | RTT=0.02ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.07ms
+TCP | 192.168.1.14 | RTT=0.06ms
+TCP | 192.168.1.14 | RTT=0.05ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.02ms
+TCP | 192.168.1.14 | RTT=0.02ms
+TCP | 192.168.1.14 | RTT=0.02ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.50ms
+TCP | 192.168.1.14 | RTT=0.04ms
+TCP | 192.168.1.14 | RTT=0.06ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.48ms
+TCP | 192.168.1.14 | RTT=0.04ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.02ms
+TCP | 192.168.1.14 | RTT=0.05ms
+TCP | 192.168.1.14 | RTT=0.06ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.04ms
+TCP | 192.168.1.14 | RTT=0.05ms
+TCP | 192.168.1.14 | RTT=0.05ms
+TCP | 192.168.1.14 | RTT=0.06ms
+TCP | 192.168.1.14 | RTT=0.05ms
+TCP | 192.168.1.14 | RTT=0.07ms
+TCP | 192.168.1.14 | RTT=0.05ms
+TCP | 192.168.1.14 | RTT=0.06ms
+TCP | 192.168.1.14 | RTT=0.04ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.47ms
+TCP | 192.168.1.14 | RTT=0.04ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.02ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.48ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.02ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.07ms
+TCP | 192.168.1.14 | RTT=0.02ms
+TCP | 192.168.1.14 | RTT=0.02ms
+TCP | 192.168.1.14 | RTT=0.05ms
+TCP | 192.168.1.14 | RTT=0.59ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.18ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.06ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.16ms
+TCP | 192.168.1.14 | RTT=0.06ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.04ms
+TCP | 192.168.1.14 | RTT=0.05ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.02ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.07ms
+TCP | 192.168.1.14 | RTT=0.02ms
+TCP | 192.168.1.14 | RTT=0.06ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.49ms
+TCP | 192.168.1.14 | RTT=0.06ms
+TCP | 192.168.1.14 | RTT=0.15ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.05ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.04ms
+TCP | 192.168.1.14 | RTT=0.06ms
+TCP | 192.168.1.14 | RTT=0.02ms
+TCP | 192.168.1.14 | RTT=0.06ms
+TCP | 192.168.1.14 | RTT=0.08ms
+TCP | 192.168.1.14 | RTT=0.42ms
+TCP | 192.168.1.14 | RTT=0.31ms
+TCP | 192.168.1.14 | RTT=0.11ms
+TCP | 192.168.1.14 | RTT=0.06ms
+TCP | 192.168.1.14 | RTT=0.04ms
+TCP | 192.168.1.14 | RTT=0.04ms
+TCP | 192.168.1.14 | RTT=0.05ms
+TCP | 192.168.1.14 | RTT=0.04ms
+TCP | 192.168.1.14 | RTT=0.06ms
+TCP | 192.168.1.14 | RTT=0.04ms
+TCP | 192.168.1.14 | RTT=0.04ms
+TCP | 192.168.1.14 | RTT=0.05ms
+TCP | 192.168.1.14 | RTT=0.05ms
+TCP | 192.168.1.14 | RTT=0.04ms
+TCP | 192.168.1.14 | RTT=0.09ms
+TCP | 192.168.1.14 | RTT=0.06ms
+TCP | 192.168.1.14 | RTT=0.24ms
+TCP | 192.168.1.14 | RTT=0.12ms
+TCP | 192.168.1.14 | RTT=0.04ms
+TCP | 192.168.1.14 | RTT=0.04ms
+TCP | 192.168.1.14 | RTT=0.04ms
+TCP | 192.168.1.14 | RTT=0.05ms
+TCP | 192.168.1.14 | RTT=0.04ms
+TCP | 192.168.1.14 | RTT=0.05ms
+TCP | 192.168.1.14 | RTT=1.07ms
+TCP | 192.168.1.14 | RTT=0.27ms
+TCP | 192.168.1.14 | RTT=0.05ms
+TCP | 192.168.1.14 | RTT=0.07ms
+TCP | 192.168.1.14 | RTT=0.05ms
+TCP | 192.168.1.14 | RTT=0.27ms
+TCP | 192.168.1.14 | RTT=0.04ms
+TCP | 192.168.1.14 | RTT=0.05ms
+TCP | 192.168.1.14 | RTT=0.07ms
+TCP | 192.168.1.14 | RTT=0.05ms
+TCP | 192.168.1.14 | RTT=0.05ms
+TCP | 192.168.1.14 | RTT=0.06ms
+TCP | 192.168.1.14 | RTT=0.60ms
+TCP | 192.168.1.14 | RTT=0.09ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.06ms
+TCP | 192.168.1.14 | RTT=1.02ms
+TCP | 192.168.1.14 | RTT=0.09ms
+TCP | 192.168.1.14 | RTT=0.02ms
+TCP | 192.168.1.14 | RTT=0.16ms
+TCP | 192.168.1.14 | RTT=0.26ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.06ms
+TCP | 192.168.1.14 | RTT=0.66ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.07ms
+TCP | 192.168.1.14 | RTT=0.46ms
+TCP | 192.168.1.14 | RTT=0.05ms
+TCP | 192.168.1.14 | RTT=0.06ms
+TCP | 192.168.1.14 | RTT=1.05ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.05ms
+TCP | 192.168.1.14 | RTT=0.19ms
+TCP | 192.168.1.14 | RTT=0.43ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.11ms
+TCP | 192.168.1.14 | RTT=0.06ms
+TCP | 192.168.1.14 | RTT=0.05ms
+TCP | 192.168.1.14 | RTT=0.05ms
+TCP | 192.168.1.14 | RTT=0.05ms
+TCP | 192.168.1.14 | RTT=0.04ms
+TCP | 192.168.1.14 | RTT=0.05ms
+TCP | 192.168.1.14 | RTT=0.05ms
+TCP | 192.168.1.14 | RTT=0.05ms
+TCP | 192.168.1.14 | RTT=0.77ms
+TCP | 192.168.1.14 | RTT=0.04ms
+TCP | 192.168.1.14 | RTT=0.09ms
+TCP | 192.168.1.14 | RTT=0.06ms
+TCP | 192.168.1.14 | RTT=0.06ms
+TCP | 192.168.1.14 | RTT=0.56ms
+TCP | 192.168.1.14 | RTT=0.05ms
+TCP | 192.168.1.14 | RTT=0.02ms
+TCP | 192.168.1.14 | RTT=0.02ms
+TCP | 192.168.1.14 | RTT=0.05ms
+TCP | 192.168.1.14 | RTT=0.06ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.02ms
+TCP | 192.168.1.14 | RTT=0.02ms
+TCP | 192.168.1.14 | RTT=0.02ms
+TCP | 192.168.1.14 | RTT=0.08ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.04ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.04ms
+TCP | 192.168.1.14 | RTT=0.04ms
+TCP | 192.168.1.14 | RTT=0.04ms
+TCP | 192.168.1.14 | RTT=0.04ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.06ms
+TCP | 192.168.1.14 | RTT=0.02ms
+TCP | 192.168.1.14 | RTT=0.05ms
+TCP | 192.168.1.14 | RTT=0.04ms
+TCP | 192.168.1.14 | RTT=0.04ms
+TCP | 192.168.1.14 | RTT=0.21ms
+TCP | 192.168.1.14 | RTT=0.06ms
+TCP | 192.168.1.14 | RTT=0.06ms
+TCP | 192.168.1.14 | RTT=0.04ms
+TCP | 192.168.1.14 | RTT=0.04ms
+TCP | 192.168.1.14 | RTT=0.04ms
+TCP | 192.168.1.14 | RTT=0.05ms
+TCP | 192.168.1.14 | RTT=0.05ms
+TCP | 192.168.1.14 | RTT=0.04ms
+TCP | 192.168.1.14 | RTT=0.05ms
+TCP | 192.168.1.14 | RTT=0.05ms
+TCP | 192.168.1.14 | RTT=0.05ms
+TCP | 192.168.1.14 | RTT=0.05ms
+TCP | 192.168.1.14 | RTT=0.04ms
+TCP | 192.168.1.14 | RTT=0.05ms
+TCP | 192.168.1.14 | RTT=0.05ms
+TCP | 192.168.1.14 | RTT=0.05ms
+TCP | 192.168.1.14 | RTT=0.05ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.05ms
+TCP | 192.168.1.14 | RTT=0.04ms
+TCP | 192.168.1.14 | RTT=0.07ms
+TCP | 192.168.1.14 | RTT=0.06ms
+TCP | 192.168.1.14 | RTT=0.05ms
+TCP | 192.168.1.14 | RTT=0.05ms
+TCP | 192.168.1.14 | RTT=0.05ms
+TCP | 192.168.1.14 | RTT=0.06ms
+TCP | 192.168.1.14 | RTT=0.05ms
+TCP | 192.168.1.14 | RTT=0.06ms
+TCP | 192.168.1.14 | RTT=0.05ms
+TCP | 192.168.1.14 | RTT=0.05ms
+TCP | 192.168.1.14 | RTT=0.04ms
+TCP | 192.168.1.14 | RTT=0.06ms
+TCP | 192.168.1.14 | RTT=0.77ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.06ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.06ms
+TCP | 192.168.1.14 | RTT=0.04ms
+TCP | 192.168.1.14 | RTT=0.02ms
+TCP | 192.168.1.14 | RTT=0.06ms
+TCP | 192.168.1.14 | RTT=0.05ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.06ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.05ms
+TCP | 192.168.1.14 | RTT=0.05ms
+TCP | 192.168.1.14 | RTT=0.04ms
+TCP | 192.168.1.14 | RTT=0.05ms
+TCP | 192.168.1.14 | RTT=0.02ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.12ms
+TCP | 192.168.1.14 | RTT=0.05ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.07ms
+TCP | 192.168.1.14 | RTT=0.05ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.06ms
+TCP | 192.168.1.14 | RTT=0.05ms
+TCP | 192.168.1.14 | RTT=0.06ms
+TCP | 192.168.1.14 | RTT=0.05ms
+TCP | 192.168.1.14 | RTT=0.18ms
+TCP | 192.168.1.14 | RTT=0.07ms
+TCP | 192.168.1.14 | RTT=0.04ms
+TCP | 192.168.1.14 | RTT=0.04ms
+TCP | 192.168.1.14 | RTT=0.04ms
+TCP | 192.168.1.14 | RTT=0.04ms
+TCP | 192.168.1.14 | RTT=0.04ms
+TCP | 192.168.1.14 | RTT=0.05ms
+TCP | 192.168.1.14 | RTT=0.07ms
+TCP | 192.168.1.14 | RTT=0.06ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.61ms
+TCP | 192.168.1.14 | RTT=0.06ms
+TCP | 192.168.1.14 | RTT=0.05ms
+TCP | 192.168.1.14 | RTT=0.05ms
+TCP | 192.168.1.14 | RTT=0.05ms
+TCP | 192.168.1.14 | RTT=0.05ms
+TCP | 192.168.1.14 | RTT=0.06ms
+TCP | 192.168.1.14 | RTT=0.06ms
+TCP | 192.168.1.14 | RTT=0.06ms
+TCP | 192.168.1.14 | RTT=1.57ms
+TCP | 192.168.1.14 | RTT=0.06ms
+TCP | 192.168.1.14 | RTT=12.47ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.02ms
+TCP | 192.168.1.14 | RTT=0.02ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.05ms
+TCP | 192.168.1.14 | RTT=0.12ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.02ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.07ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.07ms
+TCP | 192.168.1.14 | RTT=0.44ms
+TCP | 192.168.1.14 | RTT=0.14ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.02ms
+TCP | 192.168.1.14 | RTT=0.06ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.34ms
+TCP | 192.168.1.14 | RTT=0.02ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.02ms
+TCP | 192.168.1.14 | RTT=0.06ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.04ms
+TCP | 192.168.1.14 | RTT=0.08ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.89ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.05ms
+TCP | 192.168.1.14 | RTT=0.06ms
+TCP | 192.168.1.14 | RTT=0.32ms
+TCP | 192.168.1.14 | RTT=0.06ms
+TCP | 192.168.1.14 | RTT=0.09ms
+TCP | 192.168.1.14 | RTT=0.06ms
+TCP | 192.168.1.14 | RTT=0.04ms
+TCP | 192.168.1.14 | RTT=0.02ms
+TCP | 192.168.1.14 | RTT=0.05ms
+TCP | 192.168.1.14 | RTT=0.06ms
+TCP | 192.168.1.14 | RTT=0.06ms
+TCP | 192.168.1.14 | RTT=0.05ms
+TCP | 192.168.1.14 | RTT=0.05ms
+TCP | 192.168.1.14 | RTT=0.05ms
+TCP | 192.168.1.14 | RTT=0.05ms
+TCP | 192.168.1.14 | RTT=0.06ms
+TCP | 192.168.1.14 | RTT=0.06ms
+TCP | 192.168.1.14 | RTT=0.06ms
+TCP | 192.168.1.14 | RTT=0.06ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.04ms
+TCP | 192.168.1.14 | RTT=0.04ms
+TCP | 192.168.1.14 | RTT=0.05ms
+TCP | 192.168.1.14 | RTT=0.04ms
+TCP | 192.168.1.14 | RTT=0.11ms
+TCP | 192.168.1.14 | RTT=0.05ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.02ms
+TCP | 192.168.1.14 | RTT=0.06ms
+TCP | 192.168.1.14 | RTT=0.04ms
+TCP | 192.168.1.14 | RTT=0.02ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.05ms
+TCP | 192.168.1.14 | RTT=0.06ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.05ms
+TCP | 192.168.1.14 | RTT=0.06ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.02ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.02ms
+TCP | 192.168.1.14 | RTT=0.12ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.04ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.02ms
+TCP | 192.168.1.14 | RTT=0.04ms
+TCP | 192.168.1.14 | RTT=0.06ms
+TCP | 192.168.1.14 | RTT=0.05ms
+TCP | 192.168.1.14 | RTT=0.05ms
+TCP | 192.168.1.14 | RTT=0.05ms
+TCP | 192.168.1.14 | RTT=0.10ms
+TCP | 192.168.1.14 | RTT=0.32ms
+TCP | 192.168.1.14 | RTT=0.04ms
+TCP | 192.168.1.14 | RTT=0.06ms
+TCP | 192.168.1.14 | RTT=0.02ms
+TCP | 192.168.1.14 | RTT=0.03ms
+TCP | 192.168.1.14 | RTT=0.03ms
