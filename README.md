@@ -98,9 +98,14 @@ tcp.port == 5000 or udp.port == 5001
 ---
  
 # Vídeo de Demonstração
+Abaixo segue o video de demostração:
 
-Clique na imagem abaixo para assistir ao vídeo:
-[![Vídeo de demonstração](https://img.youtube.com/vi/SLpvlW2HVP0/0.jpg)](https://youtu.be/SLpvlW2HVP0)
+
+<p align="center">
+  <a href="https://youtu.be/SLpvlW2HVP0">
+    <img src="https://img.youtube.com/vi/SLpvlW2HVP0/0.jpg" width="500">
+  </a>
+</p>
 
 # Disciplina
 
