@@ -58,16 +58,22 @@ Para a execução, siga os passos:
 ## Iniciar servidores
 
 ```bash
-python dashboard.py #cria o banco de dados
-python tcp_server.py #inicia o servidor tcp
-python udp_server.py #inicia o servidor udp
+cd server
+python database.py #cria o banco de dados
+python server/tcp_server.py #inicia o servidor tcp
+python server/udp_server.py #inicia o servidor udp
 uvicorn api:app --host 0.0.0.0 --port 8000 --reload #inicia a API
+```
+Para iniciar o streamlit:
+```bash
+cd dashboard
 streamlit run app.py #inicia o streamlit
 ```
 
 ## Iniciar clientes
 
 ```bash
+cd client
 python tcp_client.py #inicia o cliente tcp
 python udp_client.py #inicia o cliente udp
 ```
